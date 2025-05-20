@@ -187,7 +187,7 @@ const Success = () => {
               },
             }}
           >
-            Track Order
+            View Order
           </Button>
         </motion.div>
 
